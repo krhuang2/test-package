@@ -1,7 +1,8 @@
 {
   "name": "@krhuang2/test-package",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": false,
+  "main": "index.js",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
