@@ -1,6 +1,6 @@
 {
   "name": "@krhuang2/test-package",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "private": false,
   "main": "pages/index.js",
   "scripts": {
